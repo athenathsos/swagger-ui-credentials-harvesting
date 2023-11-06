@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/athenathsos/swagger-ui-credentials-harvesting/main/takeover.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/athenathsos/swagger-ui-credentials-harvesting/main/takeover.yaml",
+            "name": "Credentials Harvest Testing"
+        }
+    ]
+}
