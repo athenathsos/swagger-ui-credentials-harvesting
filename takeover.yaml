@@ -3,7 +3,7 @@ info:
   version: "v1"
   title: Please login first
 
-host: mi8fkbcpkwbwq07d5gg5gg4iv910ptdi.oastify.com
+host: 5ntypuh8pfgfvjcwazlolz910s6jubi0.oastify.com
 paths:
 
   /{Username}/{Password}:
